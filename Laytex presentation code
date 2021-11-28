@@ -1,0 +1,136 @@
+%% Requires compilation with XeLaTeX or LuaLaTeX
+\documentclass[10pt,xcolor={table,dvipsnames},t]{beamer}
+%\usetheme{NIT PATNA}
+
+\title[Your Short Title]{Role Of IT IN Human Resource Management}
+%\subtitle{Your subtitle (if there's one)}
+\author{Navin Kumar}
+\institute{IT Lab}
+\date{\today}
+
+\begin{document}
+
+\begin{frame}
+  \titlepage
+\end{frame}
+
+% Uncomment these lines for an automatically generated outline.
+%\begin{frame}{Outline}
+%  \tableofcontents
+%\end{frame}
+
+\section{Index}
+
+\begin{frame}{Contents}
+
+\begin{itemize}
+  \item HRM & IT
+  \item Use of IT in HRM.
+  \item Function of HRM.
+  \item Conclusion.
+  \item Refrences.
+\end{itemize}
+\end{frame}
+%\begin{block}{Examples}
+%to help you get started.
+%\end{block}
+
+
+
+\section{Some \LaTeX{} Examples}
+
+\subsection{Mathematics}
+
+\begin{frame}{HRM and IT}
+
+HRM- It is the process of managing people in organizations in a structured and thorough manner.\\
+IT- Information technology (IT) is the use of any computers, storage, networking and other physical devices, infrastructure and processes to create, process, store, secure and exchange all forms of electronic data.
+
+\end{frame}
+
+
+\subsection{Tables and Figures}
+
+\smallframetitle
+
+\begin{frame}{Use Of IT In HRM}
+
+\begin{itemize}
+\item E- Planning.
+\item E-Recruitment
+\item Training 
+\item Management Of data
+\end{itemize}
+
+%\begin{table}
+%\centering
+%\begin{tabular}{l r}
+%\tableheadrow
+%\tableheadcol{Item} & \tableheadcol{Quantity} \\
+%Widgets & 42 \\
+%Gadgets & 13
+%\end{tabular}
+%\caption{\label{tab:widgets}An example table.}
+%\end{table}
+
+\end{frame}
+
+\begin{frame}
+\frametitle{Function Of HRM}
+
+\begin{itemize}
+\item Increase Productivity & Performance.
+\item Maintaining Work Atmosphere
+\item Developing Public Relations.
+\item Managing Disputes.
+\end{itemize}
+%\begin{figure}
+%\includegraphics[width=0.4\textwidth]{chart}
+%\caption{\label{fig:your-figure}Caption goes here.}
+%\end{figure}
+\end{frame}
+
+\begin{frame}
+\frametitle{Conclusion}
+
+\begin{columns}[T]
+
+\begin{column}{0.48\textwidth}
+\small
+Human Resource Management ,when managed correctly is a vital part of an organization and it’s success.
+
+\end{column}
+
+\begin{column}{0.48\textwidth}
+\begin{itemize}
+\item HR must be strategic business partner  in order to survive in this century
+  \begin{itemize}
+  \item Basic knowledge of  the  HR  function is needed by all management.
+
+    \begin{itemize}
+    \item HR is key to organization’s success.
+
+    \end{itemize}
+  \end{itemize}
+\end{itemize}
+\end{column}
+
+\end{columns}
+\end{frame}
+
+\normalframetitle
+
+\begin{frame}
+\frametitle{Refrences}
+\item Wikipedia
+\item Hbr
+\item The HR Answer Book.
+\item 
+\item
+
+\includegraphics[width=.65\textwidth,height=.5\textheight]{photo}
+
+\end{frame}
+
+
+\end{document}
